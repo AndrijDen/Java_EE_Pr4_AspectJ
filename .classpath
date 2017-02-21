@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-aop-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-aspects-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-beans-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-context-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-context-support-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-core-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-expression-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-instrument-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-instrument-tomcat-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-jdbc-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-jms-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-messaging-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-orm-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-oxm-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-test-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-tx-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-web-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-webmvc-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-webmvc-portlet-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Documents/3 Third year of stady/3_2_trimester/lib/spring-websocket-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
